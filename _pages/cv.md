@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Mathematics, University of Warwick, 2017 - 2020
+* M.Sc. in Computational Finance, University College London, 2020 - 2021
+* Ph.D in Computer Science, University College London, 2021 - Now
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * University College London
+  * Research topics: Multifactor stochastic volatility models and the rough volatility models
+  * Supervisor: Professor Guido Germano
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2019: Research Opportunity
+  * University of Warwick
+  * Research topics: Mathematics in Machine Learning 
+  * Supervisor: Mr. Andrew Brendon-Penn
   
 Skills
 ======
